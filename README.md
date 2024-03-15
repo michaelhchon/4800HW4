@@ -14,4 +14,8 @@ This homework demonstrates creational patterns, looking at builder, abstracty fa
 - PizzaDriver.java
 
 2) Macronutrients
-- file
+- MealDriver.java
+- Meal.java
+- MealFactory.java
+- MealAbstractFactory.java
+- Customer.java
